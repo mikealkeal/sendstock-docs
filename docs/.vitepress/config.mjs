@@ -5,10 +5,7 @@ export default defineConfig({
   description: 'Optimize and distribute your media to stock agencies with AI',
   lang: 'en-US',
 
-  // TODO: remove base once docs.sendstockai.com DNS is propagated
-  base: '/sendstock-docs/',
-
-  sitemap: {
+sitemap: {
     hostname: 'https://docs.sendstockai.com'
   },
 

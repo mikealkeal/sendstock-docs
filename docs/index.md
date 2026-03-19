@@ -20,9 +20,9 @@ features:
   - icon: 📦
     title: Bulk Processing
     details: Process hundreds of files at once. Upload to Adobe Stock, Shutterstock, and Freepik in one click.
-  - icon: 🔍
-    title: Similarity Search
-    details: Find duplicate or similar assets in your portfolio using local AI — no data sent to the cloud.
+  - icon: 💬
+    title: AI Portfolio Chat
+    details: Chat with an AI expert about your portfolio — analyze performance, discover market opportunities, and get metadata suggestions.
   - icon: 📊
     title: Portfolio Analytics
     details: Sync your Adobe Stock portfolio and analyze performance, trending assets, and keyword gaps.
