@@ -29,15 +29,6 @@
 2. Open the `.dmg` and drag SendStock AI to **Applications**
 3. Launch SendStock AI from your Applications folder
 
-::: warning macOS — local AI features
-The first time you enable local AI processing, macOS may block an internal component. If that happens:
-
-1. Open **System Settings → Privacy & Security**
-2. Scroll down and click **Allow Anyway**
-3. Restart SendStock AI
-
-:::
-
 ## Updates
 
 SendStock AI updates automatically. A notification appears inside the app when a new version is available — click **Install Update** to apply it.
