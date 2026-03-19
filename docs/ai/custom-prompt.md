@@ -51,6 +51,20 @@ Two tabs:
 
 ---
 
+## Additional Context
+
+A free-text field, toggled ON/OFF in the sidebar. Use it to add session-specific context that applies to all files processed in the current session.
+
+Unlike the prompt settings above, this field is not saved to your account — it resets when you close the session.
+
+**Examples:**
+
+> Black Friday
+> Wedding photography, summer outdoor ceremony
+> Editorial — New York Fashion Week 2025
+
+---
+
 ## Tips
 
 - The more specific your prompt, the more consistent your results across files
