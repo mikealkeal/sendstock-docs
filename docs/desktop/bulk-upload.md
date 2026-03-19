@@ -39,6 +39,18 @@ Videos: `MP4` `MOV`
 
 Other: `SVG`
 
+## Connection Details
+
+| Protocol | Default port | Notes |
+| --- | --- | --- |
+| FTP | 21 | Standard FTP |
+| FTPS | 21 | FTP with SSL/TLS encryption |
+| SFTP | 22 | SSH File Transfer Protocol |
+
+::: warning Freepik
+Freepik uses a non-standard port — check your contributor dashboard for the exact value.
+:::
+
 ::: tip FTP credentials
 Look for "FTP Upload" or "SFTP" in your contributor dashboard settings on each platform.
 :::
