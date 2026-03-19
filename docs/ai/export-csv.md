@@ -1,4 +1,4 @@
-# Export CSV — Desktop App
+# Export CSV
 
 Export your metadata as a CSV file ready to upload on stock platforms.
 
@@ -16,7 +16,7 @@ Export your metadata as a CSV file ready to upload on stock platforms.
 1. Load your files and generate metadata
 2. Click the **Export CSV** button in the toolbar
 3. Select the preset matching your target platform
-4. Choose a save location
+4. Save the file to your computer
 
 ## What's Included
 
@@ -31,6 +31,10 @@ The CSV contains for each file:
 
 Upload the file in your stock platform contributor dashboard alongside your media files.
 
-::: tip Direct upload available
+::: tip Filename match
+Make sure the filenames in the CSV match exactly the filenames you uploaded to the platform.
+:::
+
+::: tip Direct upload (Desktop)
 The desktop app also supports direct FTP/SFTP upload, which embeds metadata automatically without needing a CSV. See [Bulk Upload](/desktop/bulk-upload).
 :::

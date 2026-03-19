@@ -43,8 +43,7 @@ sitemap: {
         items: [
           { text: 'AI Generation', link: '/ai/generation' },
           { text: 'Custom Prompt', link: '/ai/custom-prompt' },
-          { text: 'Export CSV — Web App', link: '/web-app/export-csv' },
-          { text: 'Export CSV — Desktop App', link: '/desktop/export-csv' }
+          { text: 'Export CSV', link: '/ai/export-csv' }
         ]
       },
       {
