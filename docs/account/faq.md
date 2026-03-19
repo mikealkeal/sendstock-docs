@@ -27,7 +27,7 @@ The AI is trained on general visual content. For niche or very specific subjects
 
 ### Can I use my own AI model?
 
-Yes, advanced users can configure a local AI model (LMStudio, Ollama) in their account settings via the web app.
+Yes, advanced users can connect their own local AI server in their account settings via the web app.
 
 ---
 

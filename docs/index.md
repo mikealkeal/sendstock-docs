@@ -16,7 +16,7 @@ hero:
 features:
   - icon: 🤖
     title: AI-Powered Metadata
-    details: Generate optimized titles and keywords for your photos and videos using state-of-the-art AI models.
+    details: Generate optimized titles and keywords for your photos and videos using AI.
   - icon: 📦
     title: Bulk Processing
     details: Process hundreds of files at once. Upload to Adobe Stock, Shutterstock, and Freepik in one click.
