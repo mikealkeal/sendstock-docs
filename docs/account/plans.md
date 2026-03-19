@@ -4,9 +4,7 @@
 
 Credits are consumed each time you generate a title, keywords, or description for a file.
 
-There are two types of credits:
-- **Free credits** — reset to **10 every day** at midnight (Paris time)
-- **Paid credits** — purchased separately, never expire, used first
+Without a subscription, you have **no credits**. You need to subscribe or purchase credits to use AI generation.
 
 ## Plans
 
