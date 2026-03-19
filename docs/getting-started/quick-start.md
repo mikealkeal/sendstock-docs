@@ -6,7 +6,7 @@ Get SendStock AI running in 5 minutes.
 
 Download the latest version for your platform from [sendstockai.com](https://www.sendstockai.com).
 
-- **Windows** — `.exe` installer
+- **Windows** — `.exe` installer or [Microsoft Store](https://www.microsoft.com/store)
 - **macOS** — `.dmg` installer
 
 ## 2. Create an Account

@@ -11,6 +11,12 @@
 
 ## Windows
 
+**Option 1 — Microsoft Store** (recommended)
+1. Search for **SendStock AI** in the Microsoft Store
+2. Click **Install**
+3. Launch from the Start Menu
+
+**Option 2 — Direct installer**
 1. Download the `.exe` installer from [sendstockai.com](https://www.sendstockai.com)
 2. Run the installer and follow the setup wizard
 3. Launch **SendStock AI** from the Start Menu or desktop shortcut
