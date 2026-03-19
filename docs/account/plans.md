@@ -4,7 +4,12 @@
 
 Credits are consumed each time you generate a title, keywords, or description for a file.
 
-Without a subscription, you have **no credits**. You need to subscribe or purchase credits to use AI generation.
+| Situation | How it works |
+|---|---|
+| No subscription | **100 AI generations** included, then blocked |
+| With subscription or credits | 1 credit per generation |
+| Credits exhausted | Falls back to your own API key if configured |
+| Local AI model (Desktop only) | Free — no credits consumed |
 
 ## Plans
 
