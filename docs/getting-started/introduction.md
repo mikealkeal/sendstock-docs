@@ -1,34 +1,34 @@
 # Introduction
 
-**SendStock AI** is a desktop application that helps stock media contributors optimize and distribute their photos and videos to major stock agencies.
+**SendStock AI** helps stock media contributors generate optimized metadata and manage their portfolio — available as a **web app** and a **desktop app**.
 
-## What is SendStock AI?
+## Two Ways to Use SendStock AI
 
-SendStock AI automates the most time-consuming parts of stock media contribution:
+### Web App
+Access SendStock AI directly from your browser at [sendstockai.com](https://www.sendstockai.com).
 
-- **AI Metadata Generation** — Automatically generate titles and keywords optimized for each stock platform
-- **Multi-Platform Upload** — Upload to Adobe Stock, Shutterstock, and Freepik via FTP/SFTP
-- **Portfolio Sync** — Import and analyze your existing Adobe Stock portfolio
-- **Similarity Search** — Detect duplicate or near-duplicate assets locally
+- Generate titles, keywords, and descriptions for your files
+- Export metadata as CSV
+- No installation required
 
-## Who is it for?
+### Desktop App
+The desktop application offers the full feature set, including advanced tools that run locally on your machine.
 
-SendStock AI is built for:
+- Everything in the Web App, plus:
+- Direct FTP/SFTP upload to stock platforms
+- Portfolio sync and analytics
+- Similarity search (duplicate detection)
+- Image upscaling
+- Background removal
+- Local AI model (no credits consumed)
 
-- **Freelance photographers and videographers** who sell on stock platforms
-- **Stock contributors** managing large portfolios (100s to 1000s of files)
-- **Agencies** needing to streamline their media distribution workflow
+## Who Is It For?
 
-## Key Benefits
-
-| Without SendStock AI | With SendStock AI |
-|---|---|
-| Manual title & keyword writing | AI generates optimized metadata in seconds |
-| Upload each platform separately | One-click multi-platform upload |
-| No insight on portfolio performance | Full portfolio analytics |
-| Risk of uploading duplicates | Similarity detection before upload |
+- **Stock contributors** who upload photos and videos to Adobe Stock and other platforms
+- **Contributors managing large portfolios** who need bulk processing tools
+- **Power users** who want advanced features like similarity detection and local AI
 
 ## Next Steps
 
-- [Quick Start](/getting-started/quick-start) — Get up and running in 5 minutes
-- [Installation](/getting-started/installation) — Download and install the app
+- [Get started with the Web App](/getting-started/web-app)
+- [Get started with the Desktop App](/getting-started/desktop-app)

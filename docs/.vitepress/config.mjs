@@ -8,21 +8,17 @@ export default defineConfig({
   // TODO: remove base once docs.sendstockai.com DNS is propagated
   base: '/sendstock-docs/',
 
-  // Custom domain — needed for sitemap + canonical URLs
   sitemap: {
     hostname: 'https://docs.sendstockai.com'
   },
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.svg' }],
-    // Open Graph
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:site_name', content: 'SendStock AI Docs' }],
     ['meta', { property: 'og:image', content: 'https://docs.sendstockai.com/og-image.png' }],
-    // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: '@sendstockai' }],
-    // Canonical base
     ['link', { rel: 'canonical', href: 'https://docs.sendstockai.com' }]
   ],
 
@@ -31,7 +27,8 @@ export default defineConfig({
     siteTitle: 'SendStock AI',
 
     nav: [
-      { text: 'Docs', link: '/getting-started/introduction' },
+      { text: 'Web App', link: '/getting-started/web-app' },
+      { text: 'Desktop', link: '/getting-started/desktop-app' },
       { text: 'Website', link: 'https://www.sendstockai.com' }
     ],
 
@@ -40,26 +37,28 @@ export default defineConfig({
         text: 'Getting Started',
         items: [
           { text: 'Introduction', link: '/getting-started/introduction' },
-          { text: 'Quick Start', link: '/getting-started/quick-start' },
-          { text: 'Installation', link: '/getting-started/installation' }
+          { text: 'Web App', link: '/getting-started/web-app' },
+          { text: 'Desktop App', link: '/getting-started/desktop-app' }
         ]
       },
       {
-        text: 'Features',
+        text: 'Web App',
         items: [
-          { text: 'AI Title & Keywords', link: '/features/ai-generation' },
-          { text: 'Portfolio Sync', link: '/features/portfolio-sync' },
-          { text: 'Bulk Upload', link: '/features/bulk-upload' },
-          { text: 'Similarity Search', link: '/features/similarity-search' },
-          { text: 'Export CSV', link: '/features/export-csv' }
+          { text: 'AI Generation', link: '/web-app/ai-generation' },
+          { text: 'Export CSV', link: '/web-app/export-csv' }
         ]
       },
       {
-        text: 'Platforms',
+        text: 'Desktop App',
         items: [
-          { text: 'Adobe Stock', link: '/platforms/adobe-stock' },
-          { text: 'Shutterstock', link: '/platforms/shutterstock' },
-          { text: 'Freepik', link: '/platforms/freepik' }
+          { text: 'Installation', link: '/desktop/installation' },
+          { text: 'AI Generation', link: '/desktop/ai-generation' },
+          { text: 'Portfolio Sync', link: '/desktop/portfolio-sync' },
+          { text: 'Bulk Upload', link: '/desktop/bulk-upload' },
+          { text: 'Similarity Search', link: '/desktop/similarity-search' },
+          { text: 'Upscale', link: '/desktop/upscale' },
+          { text: 'Background Removal', link: '/desktop/background-removal' },
+          { text: 'Export CSV', link: '/desktop/export-csv' }
         ]
       },
       {
@@ -80,8 +79,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'SendStock AI — Stock Media Optimizer',
-      copyright: 'Copyright © 2024-present SendStock AI'
+      message: 'SendStock AI — Stock Media Optimizer'
     }
   }
 })
