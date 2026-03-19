@@ -5,8 +5,22 @@ export default defineConfig({
   description: 'Optimize and distribute your media to stock agencies with AI',
   lang: 'en-US',
 
+  // Custom domain — needed for sitemap + canonical URLs
+  sitemap: {
+    hostname: 'https://docs.sendstockai.com'
+  },
+
   head: [
-    ['link', { rel: 'icon', href: '/favicon.svg' }]
+    ['link', { rel: 'icon', href: '/favicon.svg' }],
+    // Open Graph
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'SendStock AI Docs' }],
+    ['meta', { property: 'og:image', content: 'https://docs.sendstockai.com/og-image.png' }],
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:site', content: '@sendstockai' }],
+    // Canonical base
+    ['link', { rel: 'canonical', href: 'https://docs.sendstockai.com' }]
   ],
 
   themeConfig: {
