@@ -25,8 +25,12 @@
 
 ## macOS
 
-1. Download the `.dmg` from [sendstockai.com](https://www.sendstockai.com)
-2. Open the `.dmg` and drag SendStock AI to **Applications**
+::: info Apple Silicon only
+The macOS version requires an Apple Silicon Mac (M1 or later).
+:::
+
+1. Download the `.zip` from [sendstockai.com](https://www.sendstockai.com)
+2. Extract the archive and move **SendStock AI** to your **Applications** folder
 3. Launch SendStock AI from your Applications folder
 
 ## Updates

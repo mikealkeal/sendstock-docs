@@ -8,7 +8,7 @@ Download from [sendstockai.com](https://www.sendstockai.com).
 
 **Windows** — Microsoft Store (recommended) or `.exe` installer
 
-**macOS** — `.dmg` installer
+**macOS** — `.zip` (Apple Silicon only)
 
 ## Sign In
 
