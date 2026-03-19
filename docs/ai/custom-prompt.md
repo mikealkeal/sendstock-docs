@@ -1,39 +1,45 @@
-# Additional Context — Customize AI Results
+# Customizing the AI
 
-Guide the AI to match your photography style and target niche by adding context to your generations.
+Guide the AI to match your photography style and target niche. Settings are saved to your account and apply to all future generations.
+
+::: info Pro feature
+Custom prompts require a paid plan.
+:::
 
 ## Where to Find It
 
-In the **right sidebar**, expand the **Additional Context** section.
+In the **right sidebar**, under the **Title** and **Keywords** sections. Each section has two tabs:
 
-::: info Desktop App
-The Additional Context section requires a paid plan.
-:::
+- **Positive** (👍) — what the AI should include or focus on
+- **Negative** (👎) — what the AI should avoid
 
-## What It Does
+## Title Prompts
 
-When you add context, the AI uses it to adjust its title and keyword suggestions for every file it processes in that session.
+**Positive examples:**
 
-## Examples
+> Focus on destinations, landmarks, and cultural context
+> Emphasize professional context and workplace settings
 
-**Target a niche:**
+**Negative examples:**
 
-> Focus on business and travel photography
+> Avoid generic terms like "beautiful" or "amazing"
+> Avoid casual or lifestyle language
 
-**Set a keyword style:**
+## Keyword Prompts
+
+**Positive examples:**
 
 > Use simple, widely searched English words
+> Include species names, habitat, season, and lighting conditions
 
-**Add creative context:**
+**Negative examples:**
 
-> Always describe the lighting, mood, and season
-
-**Combine multiple instructions:**
-
-> Nature photography, include species names, habitat, and season. Avoid vague descriptors like "beautiful".
+> Avoid vague descriptors
+> No brand names or location-specific terms
 
 ## Tips
 
-- The more specific the context, the more consistent your results across files
-- Leave it empty to use the default AI behavior
-- Context applies to all files generated in the current session
+- The more specific your prompt, the more consistent your results across files
+- You can update your prompts at any time — changes apply immediately
+- Leave both fields empty to use the default AI behavior
+- Title and keywords have independent prompt settings
