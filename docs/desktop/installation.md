@@ -13,7 +13,7 @@
 
 **Option 1 — Microsoft Store** (recommended)
 
-1. Search for **SendStock AI** in the Microsoft Store
+1. Go to the [SendStock AI page on Microsoft Store](https://apps.microsoft.com/detail/9PM54KHLS7JF)
 2. Click **Install**
 3. Launch from the Start Menu
 
