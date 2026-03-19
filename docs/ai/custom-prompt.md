@@ -1,38 +1,39 @@
-# Custom Prompt — Web App
+# Additional Context — Customize AI Results
 
-Customize the AI behavior to match your photography style and target niche.
+Guide the AI to match your photography style and target niche by adding context to your generations.
 
-## Where to Configure
+## Where to Find It
 
-Go to **Profile → My Prompt**.
+In the **right sidebar**, expand the **Additional Context** section.
 
-## What You Can Set
+::: info Desktop App
+The Additional Context section requires a paid plan.
+:::
 
-- **Positive prompt** — what the AI should focus on
-- **Negative prompt** — what the AI should avoid
+## What It Does
+
+When you add context, the AI uses it to adjust its title and keyword suggestions for every file it processes in that session.
 
 ## Examples
 
-**For travel photography:**
-```
-Positive: Focus on destinations, landmarks, and cultural context. Include geographic keywords.
-Negative: Avoid generic terms like "beautiful" or "amazing".
-```
+**Target a niche:**
 
-**For business/corporate:**
-```
-Positive: Emphasize professional context, workplace settings, and business concepts.
-Negative: Avoid casual or lifestyle language.
-```
+> Focus on business and travel photography
 
-**For nature/wildlife:**
-```
-Positive: Include species names, habitat, season, and lighting conditions.
-Negative: Avoid vague descriptors.
-```
+**Set a keyword style:**
+
+> Use simple, widely searched English words
+
+**Add creative context:**
+
+> Always describe the lighting, mood, and season
+
+**Combine multiple instructions:**
+
+> Nature photography, include species names, habitat, and season. Avoid vague descriptors like "beautiful".
 
 ## Tips
 
-- The more specific your prompt, the more consistent your results across files
-- You can change your prompt at any time — it applies to all future generations
+- The more specific the context, the more consistent your results across files
 - Leave it empty to use the default AI behavior
+- Context applies to all files generated in the current session
