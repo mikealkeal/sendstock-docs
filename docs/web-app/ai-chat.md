@@ -56,11 +56,13 @@ Description   [copy]
 
 ### Image Analysis
 
-Upload an image in the chat and the AI will:
+Use the image button in the chat input to upload a file. The AI will:
 
 - Evaluate its stock potential
 - Suggest a title, keywords, and description
 - Identify the content and composition
+
+Supported formats: `JPG` `JPEG` `PNG` `SVG` `EPS`
 
 ---
 
