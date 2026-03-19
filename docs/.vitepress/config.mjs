@@ -21,7 +21,7 @@ sitemap: {
 
   themeConfig: {
     logo: '/logo.svg',
-    siteTitle: 'SendStock AI',
+    siteTitle: false,
 
     nav: [
       { text: 'Web App', link: '/getting-started/web-app' },
