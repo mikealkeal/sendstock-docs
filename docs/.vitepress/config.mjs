@@ -42,6 +42,7 @@ sitemap: {
         text: 'Web App',
         items: [
           { text: 'AI Generation', link: '/web-app/ai-generation' },
+          { text: 'AI Portfolio Chat', link: '/web-app/ai-chat' },
           { text: 'Export CSV', link: '/web-app/export-csv' }
         ]
       },
