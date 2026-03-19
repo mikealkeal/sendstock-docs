@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "SendStock AI"
-  text: "Stock Media Optimizer"
-  tagline: Automatically generate titles, keywords, and upload your media to stock agencies — powered by AI.
+  text: "Sell More Microstock."
+  tagline: Generate SEO-optimized titles and keywords that buyers actually search for. No more copy-pasting. No more wasted time.
   actions:
     - theme: brand
       text: Get Started
