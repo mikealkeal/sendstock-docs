@@ -62,7 +62,7 @@ Upload an image in the chat and the AI will:
 - Suggest a title, keywords, and description
 - Identify the content and composition
 
-Accepted formats: `JPG` `PNG` `SVG` `EPS`
+Accepted formats: `JPG` `JPEG` `PNG` `SVG` `EPS`
 
 ---
 
