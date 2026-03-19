@@ -39,9 +39,15 @@ sitemap: {
         ]
       },
       {
+        text: 'AI',
+        items: [
+          { text: 'AI Generation', link: '/ai/generation' },
+          { text: 'Custom Prompt', link: '/ai/custom-prompt' }
+        ]
+      },
+      {
         text: 'Web App',
         items: [
-          { text: 'AI Generation', link: '/web-app/ai-generation' },
           { text: 'AI Portfolio Chat', link: '/web-app/ai-chat' },
           { text: 'Export CSV', link: '/web-app/export-csv' }
         ]
@@ -50,7 +56,6 @@ sitemap: {
         text: 'Desktop App',
         items: [
           { text: 'Installation', link: '/desktop/installation' },
-          { text: 'AI Generation', link: '/desktop/ai-generation' },
           { text: 'Portfolio Sync', link: '/desktop/portfolio-sync' },
           { text: 'Bulk Upload', link: '/desktop/bulk-upload' },
           { text: 'Similarity Search', link: '/desktop/similarity-search' },
