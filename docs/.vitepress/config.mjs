@@ -39,17 +39,18 @@ sitemap: {
         ]
       },
       {
-        text: 'AI',
+        text: 'Common',
         items: [
           { text: 'AI Generation', link: '/ai/generation' },
-          { text: 'Custom Prompt', link: '/ai/custom-prompt' }
+          { text: 'Custom Prompt', link: '/ai/custom-prompt' },
+          { text: 'Export CSV — Web App', link: '/web-app/export-csv' },
+          { text: 'Export CSV — Desktop App', link: '/desktop/export-csv' }
         ]
       },
       {
         text: 'Web App',
         items: [
-          { text: 'AI Portfolio Chat', link: '/web-app/ai-chat' },
-          { text: 'Export CSV', link: '/web-app/export-csv' }
+          { text: 'AI Portfolio Chat', link: '/web-app/ai-chat' }
         ]
       },
       {
@@ -60,8 +61,7 @@ sitemap: {
           { text: 'Bulk Upload', link: '/desktop/bulk-upload' },
           { text: 'Similarity Search', link: '/desktop/similarity-search' },
           { text: 'Upscale', link: '/desktop/upscale' },
-          { text: 'Background Removal', link: '/desktop/background-removal' },
-          { text: 'Export CSV', link: '/desktop/export-csv' }
+          { text: 'Background Removal', link: '/desktop/background-removal' }
         ]
       },
       {
