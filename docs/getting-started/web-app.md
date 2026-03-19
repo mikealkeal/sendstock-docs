@@ -21,7 +21,7 @@ Go to [sendstockai.com](https://www.sendstockai.com) and sign in to your account
 
 ## Supported Formats
 
-`JPG` `JPEG` `PNG` `EPS` `MP4` `SVG`
+`JPG` `JPEG` `PNG` `EPS` `MP4` `MOV` `SVG`
 
 ## Credits
 

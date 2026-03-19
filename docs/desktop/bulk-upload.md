@@ -35,7 +35,7 @@ Before uploading, SendStock AI automatically embeds the title and keywords into 
 
 Photos: `JPG` `JPEG` `TIFF` `PNG` `EPS`
 
-Videos: `MP4`
+Videos: `MP4` `MOV`
 
 Other: `SVG`
 
