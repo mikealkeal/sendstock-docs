@@ -8,38 +8,52 @@ Custom prompts require a paid plan.
 
 ## Where to Find It
 
-In the **right sidebar**, under the **Title** and **Keywords** sections. Each section has two tabs:
+In the **right sidebar**, under the **Title**, **Keywords**, and **Description** sections.
 
-- **Positive** (👍) — what the AI should include or focus on
-- **Negative** (👎) — what the AI should avoid
+---
 
-## Title Prompts
+## Title
 
-**Positive examples:**
+Two tabs:
+
+- **Positive** (👍) — words, style, or ideas the AI should include
+- **Negative** (👎) — words, tone, or elements to avoid
+
+**Examples:**
 
 > Focus on destinations, landmarks, and cultural context
-> Emphasize professional context and workplace settings
-
-**Negative examples:**
-
 > Avoid generic terms like "beautiful" or "amazing"
-> Avoid casual or lifestyle language
 
-## Keyword Prompts
+---
 
-**Positive examples:**
+## Keywords
 
-> Use simple, widely searched English words
+Four tabs:
+
+- **Positive** (👍) — topics or styles the AI should include in keywords
+- **Negative** (👎) — words or concepts to avoid in generated keywords
+- **Starting** (▶) — keywords always prepended to the list
+- **Ending** (🏁) — keywords always appended to the list
+
+**Examples:**
+
 > Include species names, habitat, season, and lighting conditions
+> Avoid brand names or location-specific terms
 
-**Negative examples:**
+---
 
-> Avoid vague descriptors
-> No brand names or location-specific terms
+## Description
+
+Two tabs:
+
+- **Positive** (👍) — what the AI should focus on in the description
+- **Negative** (👎) — what the AI should avoid in the description
+
+---
 
 ## Tips
 
 - The more specific your prompt, the more consistent your results across files
-- You can update your prompts at any time — changes apply immediately
-- Leave both fields empty to use the default AI behavior
-- Title and keywords have independent prompt settings
+- Changes apply immediately to all future generations
+- Leave a field empty to use the default AI behavior
+- Each section (Title, Keywords, Description) has independent settings
