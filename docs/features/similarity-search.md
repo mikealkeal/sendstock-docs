@@ -4,7 +4,7 @@ Detect near-duplicate or visually similar assets in your library — entirely on
 
 ## How It Works
 
-SendStock AI uses a local AI model (SigLIP/CLIP) to compute a visual fingerprint (embedding) for each image. These embeddings are stored in a local database and compared using cosine similarity.
+SendStock AI uses a local AI model to compute a visual fingerprint for each image. Fingerprints are stored on your device and compared automatically.
 
 **Everything runs locally** — no images are sent to any server for this feature.
 

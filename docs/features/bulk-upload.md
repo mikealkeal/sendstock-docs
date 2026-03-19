@@ -28,7 +28,7 @@ Each platform provides FTP credentials in your contributor account settings. Sea
 
 ## Metadata Embedding
 
-Before uploading, SendStock AI embeds the title and keywords directly into the file metadata (IPTC/XMP for images, metadata track for videos). Stock platforms read this metadata on ingestion.
+Before uploading, SendStock AI embeds the title and keywords directly into the file metadata. Stock platforms read this metadata automatically on ingestion.
 
 ## Upload Status
 
