@@ -27,10 +27,15 @@
 
 1. Download the `.dmg` from [sendstockai.com](https://www.sendstockai.com)
 2. Open the `.dmg` and drag SendStock AI to **Applications**
-3. On first launch, right-click the app → **Open** to bypass the macOS security prompt
+3. Launch SendStock AI from your Applications folder
 
-::: warning macOS security
-If you see a warning, go to **System Settings → Privacy & Security** and click **Open Anyway**.
+::: warning macOS — local AI features
+The first time you enable local AI processing, macOS may block an internal component. If that happens:
+
+1. Open **System Settings → Privacy & Security**
+2. Scroll down and click **Allow Anyway**
+3. Restart SendStock AI
+
 :::
 
 ## Updates
