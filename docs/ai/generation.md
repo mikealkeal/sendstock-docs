@@ -20,20 +20,12 @@ Generate titles, keywords, and descriptions for your stock media files directly 
 
 Click **Generate All** in the toolbar to process all loaded files in sequence. You can monitor progress and stop at any time.
 
-## Customizing the AI
-
-In **Profile → My Prompt**, you can add a custom instruction to guide the results:
-
-- Target a niche: `"Focus on business and travel photography"`
-- Set a keyword style: `"Use simple, widely searched English words"`
-- Add context: `"Always describe the lighting and mood"`
-
 ## Credits
 
 Each generation consumes **1 credit**.
 
 New accounts include **100 free generations**. See [Plans & Credits](/account/plans).
 
-::: tip No credits? Use your own API key
-In **Profile → AI Settings**, you can configure your own API key to bypass platform credits entirely.
+::: tip Use your own API key
+In the right sidebar → **AI Model** section, you can enter your own API key to use it instead of platform credits.
 :::

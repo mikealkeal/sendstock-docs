@@ -10,10 +10,6 @@ Download from [sendstockai.com](https://www.sendstockai.com).
 
 **macOS** — `.dmg` installer
 
-::: warning macOS first launch
-Right-click the app and select **Open** on first launch to bypass the macOS security prompt.
-:::
-
 ## Sign In
 
 Open the app and sign in with your SendStock AI account.

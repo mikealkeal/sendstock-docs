@@ -20,14 +20,6 @@ Generate titles, keywords, and descriptions for your stock media files directly 
 
 Click **Generate All** in the toolbar to process all loaded files in sequence. Progress is shown in real-time and you can stop at any time.
 
-## Customizing the AI
-
-In **Profile → My Prompt**, add a custom instruction to guide the results:
-
-- Target a niche: `"Focus on nature and wildlife photography"`
-- Set a keyword style: `"Use simple, widely searched English words"`
-- Add context: `"Always describe the season and location"`
-
 ## Local AI Model
 
 The desktop app supports a local AI model that runs entirely on your machine.
@@ -44,6 +36,6 @@ Using the platform AI consumes **1 credit per generation**.
 
 New accounts include **100 free generations**. See [Plans & Credits](/account/plans).
 
-::: tip No credits? Use your own API key
-In **Profile → AI Settings**, configure your own API key to bypass platform credits entirely.
+::: tip Use your own API key
+In the right sidebar → **AI Model** section, you can enter your own API key to use it instead of platform credits.
 :::
