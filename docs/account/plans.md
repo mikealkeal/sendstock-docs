@@ -2,9 +2,11 @@
 
 ## How Credits Work
 
-Credits are the currency used for AI generation in SendStock AI. Each time you generate a title or keywords for a file, credits are consumed.
+Credits are consumed each time you generate a title, keywords, or description for a file.
 
-Credits **reset daily** at midnight (Paris time).
+There are two types of credits:
+- **Free credits** — reset to **10 every day** at midnight (Paris time)
+- **Paid credits** — purchased separately, never expire, used first
 
 ## Plans
 
