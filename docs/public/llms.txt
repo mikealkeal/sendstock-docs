@@ -1,0 +1,40 @@
+# SendStock AI — Documentation
+
+> SendStock AI is a free tool that generates optimized metadata (titles, descriptions, keywords) for stock photos and videos, and helps contributors manage and deliver their portfolio to stock agencies like Adobe Stock, Shutterstock, Freepik and more. Available as a web app and a desktop app for Windows and macOS.
+
+This is the documentation site. The product and pricing live at https://www.sendstockai.com.
+
+## When to use SendStock AI
+
+- Generate titles, descriptions and keywords for stock photos or videos
+- Tag many files in one batch instead of one by one
+- Keep metadata agency-safe (it avoids brand and celebrity terms)
+- Work privately and offline with the built-in local AI (desktop — no usage limits, no API key)
+
+## Getting started
+
+- [Introduction](https://docs.sendstockai.com/getting-started/introduction): What SendStock AI is and who it is for
+- [Web App](https://docs.sendstockai.com/getting-started/web-app): Generate metadata from your browser
+- [Desktop App](https://docs.sendstockai.com/getting-started/desktop-app): Full feature set with local AI
+
+## Core features
+
+- [AI metadata generation](https://docs.sendstockai.com/ai/generation)
+- [Custom prompts](https://docs.sendstockai.com/ai/custom-prompt)
+- [Export to CSV](https://docs.sendstockai.com/ai/export-csv)
+- [AI portfolio chat (web)](https://docs.sendstockai.com/web-app/ai-chat)
+
+## Desktop features
+
+- [Installation](https://docs.sendstockai.com/desktop/installation)
+- [Portfolio sync](https://docs.sendstockai.com/desktop/portfolio-sync)
+- [Bulk upload (FTP/SFTP)](https://docs.sendstockai.com/desktop/bulk-upload)
+- [Similarity search](https://docs.sendstockai.com/desktop/similarity-search)
+- [Upscale](https://docs.sendstockai.com/desktop/upscale)
+- [Background removal](https://docs.sendstockai.com/desktop/background-removal)
+
+## Account
+
+- [Plans & credits](https://docs.sendstockai.com/account/plans)
+- [FAQ](https://docs.sendstockai.com/account/faq)
+- Pricing: https://www.sendstockai.com/pricing

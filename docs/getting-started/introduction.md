@@ -2,6 +2,15 @@
 
 **SendStock AI** helps stock media contributors generate optimized metadata and manage their portfolio — available as a **web app** and a **desktop app**.
 
+## When to Use SendStock AI
+
+Use SendStock AI when you want to:
+
+- Generate titles, descriptions, and keywords for stock photos or videos
+- Tag large batches of files at once instead of one by one
+- Keep your metadata agency-safe (it avoids brand and celebrity terms)
+- Work privately and offline with the built-in local AI (Desktop — no usage limits, no API key)
+
 ## Two Ways to Use SendStock AI
 
 ### Web App
