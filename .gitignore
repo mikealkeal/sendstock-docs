@@ -2,3 +2,7 @@ node_modules/
 docs/.vitepress/dist
 docs/.vitepress/cache
 .DS_Store
+
+# Audit/coverage exports
+sendstockai.com-Coverage-*/
+sendstockai.com-Coverage-*.zip
